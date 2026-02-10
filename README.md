@@ -1,0 +1,2 @@
+# histcite_fileprocesser
+专门处理现在从webofscience下载的textplain文件，使其与histcite匹配，能够进行histcite分析
